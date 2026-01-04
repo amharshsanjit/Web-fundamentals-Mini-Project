@@ -30,3 +30,10 @@ I am a Frontend Developer dedicated to building responsive, interactive, and use
 *A fully responsive landing page with custom CSS animations and interactive JS elements.*
 - **Key Features:** mobile menu, scroll-reveal effects.
 
+---
+## 📸 Output Screenshot
+![Responsive Personal Portfolio](output1.png)
+![](output2.png)
+![](output3.png)
+![](output4.png)
+![](output1.png)
