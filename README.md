@@ -26,8 +26,7 @@ I am a Frontend Developer dedicated to building responsive, interactive, and use
 
 ### 📂 Featured Projects
 
-#### 📱 [Responsive Personal Portfolio 
-Website ]
+#### 📱 [Responsive Personal Portfolio Website ]
 *A fully responsive landing page with custom CSS animations and interactive JS elements.*
 - **Key Features:** mobile menu, scroll-reveal effects.
 
