@@ -26,12 +26,8 @@ I am a Frontend Developer dedicated to building responsive, interactive, and use
 
 ### 📂 Featured Projects
 
-#### 📱 [Project Name 1]
+#### 📱 [Responsive Personal Portfolio 
+Website ]
 *A fully responsive landing page with custom CSS animations and interactive JS elements.*
 - **Key Features:** mobile menu, scroll-reveal effects.
 
-#### 🎮 [Project Name 2]
-*A logic-based game or tool built entirely with Vanilla JavaScript.*
-- **Key Features:** DOM Manipulation, Event Listeners, Local Storage.
-
----
